@@ -1,2 +1,2 @@
-# UndefinedProjrect
+# UndefinedProject
 Just a practice repository
